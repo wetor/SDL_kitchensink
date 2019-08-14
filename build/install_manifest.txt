@@ -1,0 +1,10 @@
+/home/li/ONScripter-Switch/SDL_kitchensink/Output/include/kitchensink/kitchensink.h
+/home/li/ONScripter-Switch/SDL_kitchensink/Output/include/kitchensink/kitcodec.h
+/home/li/ONScripter-Switch/SDL_kitchensink/Output/include/kitchensink/kitconfig.h
+/home/li/ONScripter-Switch/SDL_kitchensink/Output/include/kitchensink/kiterror.h
+/home/li/ONScripter-Switch/SDL_kitchensink/Output/include/kitchensink/kitformat.h
+/home/li/ONScripter-Switch/SDL_kitchensink/Output/include/kitchensink/kitlib.h
+/home/li/ONScripter-Switch/SDL_kitchensink/Output/include/kitchensink/kitplayer.h
+/home/li/ONScripter-Switch/SDL_kitchensink/Output/include/kitchensink/kitsource.h
+/home/li/ONScripter-Switch/SDL_kitchensink/Output/include/kitchensink/kitutils.h
+/home/li/ONScripter-Switch/SDL_kitchensink/Output/lib/libSDL_kitchensink.a
