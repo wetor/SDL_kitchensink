@@ -1,7 +1,0 @@
-/home/li/ONScripter-Switch/SDL_kitchensink/build/CMakeFiles/install/strip.dir
-/home/li/ONScripter-Switch/SDL_kitchensink/build/CMakeFiles/edit_cache.dir
-/home/li/ONScripter-Switch/SDL_kitchensink/build/CMakeFiles/SDL_kitchensink.dir
-/home/li/ONScripter-Switch/SDL_kitchensink/build/CMakeFiles/rebuild_cache.dir
-/home/li/ONScripter-Switch/SDL_kitchensink/build/CMakeFiles/list_install_components.dir
-/home/li/ONScripter-Switch/SDL_kitchensink/build/CMakeFiles/install/local.dir
-/home/li/ONScripter-Switch/SDL_kitchensink/build/CMakeFiles/install.dir
